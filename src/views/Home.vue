@@ -2,7 +2,6 @@
   <div class="memory">
     <div class="head">
       <span class="_ff" @click="goHome">芬芬</span>
-      <!-- <span class="content-date">{{data.date}}</span> -->
       <i @click="forworld" class="forword"></i>
     </div>
     <div class="content">
